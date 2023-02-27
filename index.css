@@ -2,6 +2,16 @@ body {
     margin: 0;
     min-width: 750px;
 }
+@font-face {
+  font-family: Montserrat;
+  src: url(Montserrat-Regular.ttf);
+}
+
+@font-face {
+  font-family: DellaRobbia BT;
+  src: url(DELAROBB.ttf);
+}
+
 #logo {
     margin-top: 5px;
 }
