@@ -115,6 +115,7 @@ body {
     display: inline-block;
     vertical-align: middle;
     margin-top: 50px;
+    box-shadow: 10px 10px rgb(9, 57, 22);
 }
 
 #visual p, #visual ul{
